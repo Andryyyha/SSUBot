@@ -1,8 +1,0 @@
-telegram
-dialogflow==0.4.0
-python-telegram-bot==12.0.0b1
-pymongo
-ngrok
-flask
-beautifulsoup4
-requests
